@@ -21,7 +21,6 @@ $ env/Scripts/Activate.ps1 //In Powershel
 
 2. Run the following commands
 ```
-
 $ pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver
