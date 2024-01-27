@@ -5,7 +5,7 @@ This web app has been developed using the popular Django framework and Bootstrap
     
 * Register – Users can register and create a new profile. As of now four roles are available - (Admin, Staff, Editor, Student)
 * Login - Registered users can login using email and password
-* User Profile - Once logged in, users can check their profile details such as Name, Phoone, Email, Country.
+* User Profile - Once logged in, users can check their profile details such as Name, Phone, Email, Country.
 
 
 ### Quick Start
